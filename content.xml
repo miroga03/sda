@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260413200637QBI1HU</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604132006377JB5NS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EL ADN EN TUS MANOS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>CONCRECCION CURRICULAR</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>MIRIAN RODRÍGUEZ GARCÍA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SITUACIÓN DE APRENDIZAJE 4º ESO BIOTECNOLOGÍA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776103560109</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnxi79ug-y1u46lncn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El ADN en tus manos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El ADN en tus manos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El ADN en tus manos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+      <odeBlockId>block-1775575921378-r1ntr0tr8</odeBlockId>
+      <blockName>1. DESCRIPCIÓN DE LA SdA</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+          <odeBlockId>block-1775575921378-r1ntr0tr8</odeBlockId>
+          <odeIdeviceId>idevice-1775575921376-4v8a6jm4o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Situación de Aprendizaje “El ADN en nuestras manos” tiene como finalidad promover un aprendizaje significativo del conocimiento científico desde un enfoque aplicado, crítico y contextualizado, mediante el estudio del ADN y sus aplicaciones. Asimismo, fomenta el pensamiento crítico y la reflexión ética ante los avances biotecnológicos. A través de la elaboración de productos digitales, se impulsa el desarrollo de la competencia digital, comunicativa y científica, favoreciendo un aprendizaje activo, inclusivo y conectado con los retos del siglo XXI</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775575921376-4v8a6jm4o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje “El ADN en nuestras manos” tiene como finalidad promover un aprendizaje significativo del conocimiento científico desde un enfoque aplicado, crítico y contextualizado, mediante el estudio del ADN y sus aplicaciones. Asimismo, fomenta el pensamiento crítico y la reflexión ética ante los avances biotecnológicos. A través de la elaboración de productos digitales, se impulsa el desarrollo de la competencia digital, comunicativa y científica, favoreciendo un aprendizaje activo, inclusivo y conectado con los retos del siglo XXI</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+      <odeBlockId>block-1775576181522-cvblo26fm</odeBlockId>
+      <blockName>2. DATOS BÁSICOS</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+          <odeBlockId>block-1775576181522-cvblo26fm</odeBlockId>
+          <odeIdeviceId>idevice-1775576181519-irk0grtxo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>-Etapa: ESO (4º)<br />-Área: Biología y Geología<br />-Interdisciplinariedad</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576181519-irk0grtxo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"DATOS BÁSICOS","textTextarea":"<p>-Etapa: ESO (4º)<br />-Área: Biología y Geología<br />-Interdisciplinariedad</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+      <odeBlockId>block-1775576405374-4xdozdyoa</odeBlockId>
+      <blockName>3. ORGANIZACIÓN</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+          <odeBlockId>block-1775576405374-4xdozdyoa</odeBlockId>
+          <odeIdeviceId>idevice-1775576405372-kkswkoxa3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Agrupamientos (individual, grupo, gran grupo)<br />Espacio (aula, TIC…)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576405372-kkswkoxa3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Agrupamientos (individual, grupo, gran grupo)<br />Espacio (aula, TIC…)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+      <odeBlockId>block-1775576533859-oiu5r8civ</odeBlockId>
+      <blockName>4. TEMPORALIZACIÓN</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+          <odeBlockId>block-1775576533859-oiu5r8civ</odeBlockId>
+          <odeIdeviceId>idevice-1775576533857-5lm7cutsy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>6 sesiones de 55 min</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576533857-5lm7cutsy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>6 sesiones de 55 min</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+      <odeBlockId>block-1775576584301-zxu0s50dk</odeBlockId>
+      <blockName>5. PRODUCTOS FINALES</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+          <odeBlockId>block-1775576584301-zxu0s50dk</odeBlockId>
+          <odeIdeviceId>idevice-1775576584300-wpi2uoaly</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1.Infografía</p>
+<p>2. Podcast</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576584300-wpi2uoaly","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1.Infografía</p>\n<p>2. Podcast</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+      <odeBlockId>block-1775576631918-fo5m5ikog</odeBlockId>
+      <blockName>6. HERRAMIENTAS</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uh-tg63cv0tt</odePageId>
+          <odeBlockId>block-1775576631918-fo5m5ikog</odeBlockId>
+          <odeIdeviceId>idevice-1775576631917-u853sbjj8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Canva / Genially<br />Audacity<br />YouTube<br />Internet</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576631917-u853sbjj8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Canva / Genially<br />Audacity<br />YouTube<br />Internet</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi79uk-tgl12kv4l</odePageId>
+  <odeParentPageId>page-mnxi79uh-tg63cv0tt</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi79uk-tgl12kv4l</odePageId>
+      <odeBlockId>block-1775575845769-f21gjqdf6</odeBlockId>
+      <blockName>INTENCIÓN EDUCATIVA</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uk-tgl12kv4l</odePageId>
+          <odeBlockId>block-1775575845769-f21gjqdf6</odeBlockId>
+          <odeIdeviceId>idevice-1775575845766-1s5x54anb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente Situación de Aprendizaje, titulada “El ADN en nuestras manos”, tiene como finalidad generar un entorno educativo dinámico y significativo en el que el alumnado pueda aproximarse al conocimiento científico desde una perspectiva aplicada, crítica y contextualizada. A través del estudio del ADN y de diversas tecnologías asociadas, como la PCR, los organismos transgénicos, la terapia génica y la huella genética, se pretende que el alumnado comprenda el impacto que estos avances tienen en ámbitos tan relevantes como la medicina, la biotecnología, la investigación científica o la resolución de casos forenses.</p>
+<p>Asimismo, esta propuesta busca fomentar en el alumnado una actitud reflexiva y responsable ante los retos éticos derivados de la manipulación genética, promoviendo el desarrollo del pensamiento crítico y la toma de decisiones fundamentadas. De este modo, no solo se persigue la adquisición de conocimientos científicos, sino también la formación de una ciudadanía informada y comprometida, capaz de analizar las implicaciones sociales, económicas y morales asociadas al uso de estas tecnologías.</p>
+<p>El proyecto se articula en torno a la elaboración de productos digitales por parte del alumnado, concretamente una infografía interactiva y un podcast divulgativo, que permitirán transformar la información científica en conocimiento accesible. A través de estas producciones, el alumnado no solo consolidará los contenidos trabajados, sino que también desarrollará su competencia digital, comunicativa y creativa, adaptando el discurso científico a diferentes formatos y audiencias.</p>
+<p>En definitiva, esta Situación de Aprendizaje pretende acercar la ciencia a la realidad del alumnado, conectando los contenidos curriculares con problemáticas actuales y favoreciendo un aprendizaje activo, participativo e inclusivo, en el que se integren tanto los saberes científicos como las competencias clave necesarias para desenvolverse de manera eficaz y responsable en la sociedad del siglo XXI.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775575845766-1s5x54anb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente Situación de Aprendizaje, titulada “El ADN en nuestras manos”, tiene como finalidad generar un entorno educativo dinámico y significativo en el que el alumnado pueda aproximarse al conocimiento científico desde una perspectiva aplicada, crítica y contextualizada. A través del estudio del ADN y de diversas tecnologías asociadas, como la PCR, los organismos transgénicos, la terapia génica y la huella genética, se pretende que el alumnado comprenda el impacto que estos avances tienen en ámbitos tan relevantes como la medicina, la biotecnología, la investigación científica o la resolución de casos forenses.</p>\n<p>Asimismo, esta propuesta busca fomentar en el alumnado una actitud reflexiva y responsable ante los retos éticos derivados de la manipulación genética, promoviendo el desarrollo del pensamiento crítico y la toma de decisiones fundamentadas. De este modo, no solo se persigue la adquisición de conocimientos científicos, sino también la formación de una ciudadanía informada y comprometida, capaz de analizar las implicaciones sociales, económicas y morales asociadas al uso de estas tecnologías.</p>\n<p>El proyecto se articula en torno a la elaboración de productos digitales por parte del alumnado, concretamente una infografía interactiva y un podcast divulgativo, que permitirán transformar la información científica en conocimiento accesible. A través de estas producciones, el alumnado no solo consolidará los contenidos trabajados, sino que también desarrollará su competencia digital, comunicativa y creativa, adaptando el discurso científico a diferentes formatos y audiencias.</p>\n<p>En definitiva, esta Situación de Aprendizaje pretende acercar la ciencia a la realidad del alumnado, conectando los contenidos curriculares con problemáticas actuales y favoreciendo un aprendizaje activo, participativo e inclusivo, en el que se integren tanto los saberes científicos como las competencias clave necesarias para desenvolverse de manera eficaz y responsable en la sociedad del siglo XXI.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uk-tgl12kv4l</odePageId>
+      <odeBlockId>block-1775576728430-4bq049vh3</odeBlockId>
+      <blockName>RELACIÓN ODS 2030</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uk-tgl12kv4l</odePageId>
+          <odeBlockId>block-1775576728430-4bq049vh3</odeBlockId>
+          <odeIdeviceId>idevice-1775576728429-lmo8s1flp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente Situación de Aprendizaje se vincula de manera directa con varios de los Objetivos de Desarrollo Sostenible, contribuyendo a la formación de una ciudadanía crítica, informada y comprometida con los retos globales actuales.</p>
+<p>En relación con el ODS 3: Salud y bienestar, el estudio de las tecnologías del ADN permite al alumnado comprender los avances en el ámbito de la medicina personalizada, el diagnóstico precoz de enfermedades y el desarrollo de terapias génicas. De este modo, se pone en valor el papel de la ciencia en la mejora de la calidad de vida de las personas, así como la importancia de un acceso equitativo a los avances biomédicos.</p>
+<p>Asimismo, esta propuesta se conecta con el ODS 9: Industria, innovación e infraestructuras, al abordar el desarrollo y la aplicación de tecnologías biotecnológicas que impulsan la investigación científica y la innovación. El alumnado tendrá la oportunidad de conocer cómo estos avances contribuyen al progreso tecnológico y al desarrollo sostenible, fomentando vocaciones científicas y el interés por la investigación.</p>
+<p>Por último, la Situación de Aprendizaje se relaciona con el ODS 16: Paz, justicia e instituciones sólidas, especialmente a través del análisis del uso del ADN en el ámbito forense. El estudio de la huella genética permite reflexionar sobre su papel en la resolución de delitos, la identificación de personas y la garantía de procesos judiciales más justos, promoviendo al mismo tiempo una reflexión crítica sobre los límites éticos y la protección de los datos personales.</p>
+<p>En conjunto, esta propuesta didáctica favorece la comprensión de la ciencia como una herramienta clave para afrontar los desafíos del siglo XXI, integrando el conocimiento científico con valores sociales, éticos y democráticos.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576728429-lmo8s1flp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente Situación de Aprendizaje se vincula de manera directa con varios de los Objetivos de Desarrollo Sostenible, contribuyendo a la formación de una ciudadanía crítica, informada y comprometida con los retos globales actuales.</p>\n<p>En relación con el ODS 3: Salud y bienestar, el estudio de las tecnologías del ADN permite al alumnado comprender los avances en el ámbito de la medicina personalizada, el diagnóstico precoz de enfermedades y el desarrollo de terapias génicas. De este modo, se pone en valor el papel de la ciencia en la mejora de la calidad de vida de las personas, así como la importancia de un acceso equitativo a los avances biomédicos.</p>\n<p>Asimismo, esta propuesta se conecta con el ODS 9: Industria, innovación e infraestructuras, al abordar el desarrollo y la aplicación de tecnologías biotecnológicas que impulsan la investigación científica y la innovación. El alumnado tendrá la oportunidad de conocer cómo estos avances contribuyen al progreso tecnológico y al desarrollo sostenible, fomentando vocaciones científicas y el interés por la investigación.</p>\n<p>Por último, la Situación de Aprendizaje se relaciona con el ODS 16: Paz, justicia e instituciones sólidas, especialmente a través del análisis del uso del ADN en el ámbito forense. El estudio de la huella genética permite reflexionar sobre su papel en la resolución de delitos, la identificación de personas y la garantía de procesos judiciales más justos, promoviendo al mismo tiempo una reflexión crítica sobre los límites éticos y la protección de los datos personales.</p>\n<p>En conjunto, esta propuesta didáctica favorece la comprensión de la ciencia como una herramienta clave para afrontar los desafíos del siglo XXI, integrando el conocimiento científico con valores sociales, éticos y democráticos.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uk-tgl12kv4l</odePageId>
+      <odeBlockId>block-1775576905309-lzj0fz9rm</odeBlockId>
+      <blockName>IMPACTO ESPERADO</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uk-tgl12kv4l</odePageId>
+          <odeBlockId>block-1775576905309-lzj0fz9rm</odeBlockId>
+          <odeIdeviceId>idevice-1775576905308-l4hmt16sk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se espera que esta Situación de Aprendizaje tenga un impacto positivo en el desarrollo integral del alumnado, favoreciendo la adquisición de conocimientos científicos significativos y el fortalecimiento de competencias clave, especialmente la competencia científica, digital y comunicativa. Asimismo, se pretende potenciar el pensamiento crítico y la capacidad de tomar decisiones fundamentadas ante problemáticas reales relacionadas con la biotecnología. Del mismo modo, se busca promover actitudes responsables y éticas, contribuyendo a la formación de una ciudadanía informada, participativa y comprometida con los retos del siglo XXI.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576905308-l4hmt16sk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se espera que esta Situación de Aprendizaje tenga un impacto positivo en el desarrollo integral del alumnado, favoreciendo la adquisición de conocimientos científicos significativos y el fortalecimiento de competencias clave, especialmente la competencia científica, digital y comunicativa. Asimismo, se pretende potenciar el pensamiento crítico y la capacidad de tomar decisiones fundamentadas ante problemáticas reales relacionadas con la biotecnología. Del mismo modo, se busca promover actitudes responsables y éticas, contribuyendo a la formación de una ciudadanía informada, participativa y comprometida con los retos del siglo XXI.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+  <odeParentPageId>page-mnxi79uh-tg63cv0tt</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+      <odeBlockId>block-1775577676610-xip0ll5d1</odeBlockId>
+      <blockName>Competencias clave (descriptores operativos / perfil de salida)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+          <odeBlockId>block-1775577676610-xip0ll5d1</odeBlockId>
+          <odeIdeviceId>idevice-1775577676608-oxdkzybbe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CCL1: Comprensión lectora y análisis de textos científicos.<br />CCL2: Expresión oral y escrita adecuada a diferentes formatos (debates, exposiciones, podcasts).<br />CCL3: Uso crítico de la información y respeto a la propiedad intelectual.<br />CCL5: Participación activa y colaboración en grupos heterogéneos.<br />STEM2, STEM3, STEM4: Aplicación de métodos científicos y tecnológicos para resolver problemas.<br />CD1, CD2, CD3, CD4, CD5: Competencia digital para búsqueda, organización y comunicación de información.<br />CPSAA3, CPSAA4: Competencias sociales, cívicas y éticas en la toma de decisiones.<br />CE3, CCEC4: Competencia cultural y artística aplicada a presentaciones y productos creativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577676608-oxdkzybbe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CCL1: Comprensión lectora y análisis de textos científicos.<br />CCL2: Expresión oral y escrita adecuada a diferentes formatos (debates, exposiciones, podcasts).<br />CCL3: Uso crítico de la información y respeto a la propiedad intelectual.<br />CCL5: Participación activa y colaboración en grupos heterogéneos.<br />STEM2, STEM3, STEM4: Aplicación de métodos científicos y tecnológicos para resolver problemas.<br />CD1, CD2, CD3, CD4, CD5: Competencia digital para búsqueda, organización y comunicación de información.<br />CPSAA3, CPSAA4: Competencias sociales, cívicas y éticas en la toma de decisiones.<br />CE3, CCEC4: Competencia cultural y artística aplicada a presentaciones y productos creativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+      <odeBlockId>block-1775577710188-q3wae4kni</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+          <odeBlockId>block-1775577710188-q3wae4kni</odeBlockId>
+          <odeIdeviceId>idevice-1775577710186-qww8x61u3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Competencia específica 1</p>
+<p>Interpretar y transmitir información y datos científicos, argumentando sobre ellos y utilizando diferentes formatos, para analizar conceptos y procesos de las ciencias biológicas y geológicas.</p>
+<p></p>
+<p>Competencia específica 2</p>
+<p>Identificar, localizar y selecciona información, contrastando su veracidad, organizándola y evaluándola críticamente, para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</p>
+<p> </p>
+<p>Competencia específica 3</p>
+<p>Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías científicas y cooperando cuando sea necesario, para indagar en aspectos relacionados con las ciencias geológicas y biológicas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577710186-qww8x61u3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Competencia específica 1</p>\n<p>Interpretar y transmitir información y datos científicos, argumentando sobre ellos y utilizando diferentes formatos, para analizar conceptos y procesos de las ciencias biológicas y geológicas.</p>\n<p></p>\n<p>Competencia específica 2</p>\n<p>Identificar, localizar y selecciona información, contrastando su veracidad, organizándola y evaluándola críticamente, para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</p>\n<p> </p>\n<p>Competencia específica 3</p>\n<p>Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías científicas y cooperando cuando sea necesario, para indagar en aspectos relacionados con las ciencias geológicas y biológicas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+      <odeBlockId>block-1775577814848-5cg1rz906</odeBlockId>
+      <blockName>Saberes Básicos</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+          <odeBlockId>block-1775577814848-5cg1rz906</odeBlockId>
+          <odeIdeviceId>idevice-1775577814845-ldo0pbkse</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bloque A. Proyecto científico.</p>
+<p>- Modelado para la representación y comprensión de procesos o elementos de la naturaleza.</p>
+<p>- La labor científica y las personas dedicadas a la ciencia: contribución a las ciencias biológicas y geológicas e importancia social. El papel de la mujer en la ciencia.</p>
+<p>- Estrategias para la búsqueda de información, la colaboración y la comunicación de procesos, resultados o ideas científicas: herramientas digitales y formatos de uso frecuente en ciencia (presentación, gráfica, video, póster, informe, etc.). </p>
+<p> </p>
+<p>Bloque D. Genética y evolución.</p>
+<p>- Etapas de la expresión génica, características del código genético y resolución de problemas relacionados con estas.</p>
+<p>- Relación entre las mutaciones, la replicación del ADN, el cáncer, la evolución y la biodiversidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577814845-ldo0pbkse","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bloque A. Proyecto científico.</p>\n<p>- Modelado para la representación y comprensión de procesos o elementos de la naturaleza.</p>\n<p>- La labor científica y las personas dedicadas a la ciencia: contribución a las ciencias biológicas y geológicas e importancia social. El papel de la mujer en la ciencia.</p>\n<p>- Estrategias para la búsqueda de información, la colaboración y la comunicación de procesos, resultados o ideas científicas: herramientas digitales y formatos de uso frecuente en ciencia (presentación, gráfica, video, póster, informe, etc.). </p>\n<p> </p>\n<p>Bloque D. Genética y evolución.</p>\n<p>- Etapas de la expresión génica, características del código genético y resolución de problemas relacionados con estas.</p>\n<p>- Relación entre las mutaciones, la replicación del ADN, el cáncer, la evolución y la biodiversidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+      <odeBlockId>block-1775577870833-n9u6nnk8y</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79uk-3zxmf5m15</odePageId>
+          <odeBlockId>block-1775577870833-n9u6nnk8y</odeBlockId>
+          <odeIdeviceId>idevice-1775577870831-spjug1wgg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Analizar conceptos y procesos biológicos y geológicos interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica, obteniendo conclusiones y formando opiniones propias fundamentadas.</p>
+<p>Analizar y explicar fenómenos biológicos y geológicos representándolos mediante el diseño y la realización de modelos y diagramas y utilizando, cuando sea necesario, los pasos del diseño de ingeniería (identificación del problema, exploración, diseño, Esta competencia específica se conecta con los siguientes descriptores del Perfil. </p>
+<p> <br />Resolver cuestiones y profundizar en aspectos biológicos y geológicos localizando, seleccionando, organizando y analizando críticamente la información de distintas fuentes y citándolas con respeto por la propiedad intelectual.</p>
+<p>Valorar la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y los recursos económicos.<br />Interpretar y analizar los resultados obtenidos en un proyecto de investigación utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas y obteniendo conclusiones razonadas y fundamentadas o valorar la imposibilidad de hacerlo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577870831-spjug1wgg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Analizar conceptos y procesos biológicos y geológicos interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica, obteniendo conclusiones y formando opiniones propias fundamentadas.</p>\n<p>Analizar y explicar fenómenos biológicos y geológicos representándolos mediante el diseño y la realización de modelos y diagramas y utilizando, cuando sea necesario, los pasos del diseño de ingeniería (identificación del problema, exploración, diseño, Esta competencia específica se conecta con los siguientes descriptores del Perfil. </p>\n<p> <br />Resolver cuestiones y profundizar en aspectos biológicos y geológicos localizando, seleccionando, organizando y analizando críticamente la información de distintas fuentes y citándolas con respeto por la propiedad intelectual.</p>\n<p>Valorar la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y los recursos económicos.<br />Interpretar y analizar los resultados obtenidos en un proyecto de investigación utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas y obteniendo conclusiones razonadas y fundamentadas o valorar la imposibilidad de hacerlo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi79ul-hefu8w8wg</odePageId>
+  <odeParentPageId>page-mnxi79uh-tg63cv0tt</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi79ul-hefu8w8wg</odePageId>
+      <odeBlockId>block-1775578101767-e73slok0g</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79ul-hefu8w8wg</odePageId>
+          <odeBlockId>block-1775578101767-e73slok0g</odeBlockId>
+          <odeIdeviceId>idevice-1775578101765-hhrlu1q17</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Aprendizaje cooperativo</p>
+<p>El trabajo cooperativo es una estrategia didáctica en la que el alumnado trabaja en equipo para desarrollar una tarea, actividad o proyecto.</p>
+<p>2. Aprendizaje basado en proyectos</p>
+<p>El Aprendizaje Basado en Proyectos (ABP) es una metodología activa que coloca al alumnado en el centro del proceso educativo. En lugar de ser meros receptores de información, cada estudiante se convierte en protagonista al abordar problemas reales, generando proyectos significativos. Esta metodología crea un ambiente de interacción y motivación por aprender. </p>
+<p>3. Flipped Learning</p>
+<p>El Flipped Learning es un modelo pedagógico que consiste en trasladar la instrucción teórica del alumnado fuera del horario de clase con la intención de poder aprovechar el tiempo en el aula para la realización de tareas, proyectos y otro tipo de actividades individuales y grupales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578101765-hhrlu1q17","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Aprendizaje cooperativo</p>\n<p>El trabajo cooperativo es una estrategia didáctica en la que el alumnado trabaja en equipo para desarrollar una tarea, actividad o proyecto.</p>\n<p>2. Aprendizaje basado en proyectos</p>\n<p>El Aprendizaje Basado en Proyectos (ABP) es una metodología activa que coloca al alumnado en el centro del proceso educativo. En lugar de ser meros receptores de información, cada estudiante se convierte en protagonista al abordar problemas reales, generando proyectos significativos. Esta metodología crea un ambiente de interacción y motivación por aprender. </p>\n<p>3. Flipped Learning</p>\n<p>El Flipped Learning es un modelo pedagógico que consiste en trasladar la instrucción teórica del alumnado fuera del horario de clase con la intención de poder aprovechar el tiempo en el aula para la realización de tareas, proyectos y otro tipo de actividades individuales y grupales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi79ul-pam2lxkyb</odePageId>
+  <odeParentPageId>page-mnxi79uh-tg63cv0tt</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi79ul-pam2lxkyb</odePageId>
+      <odeBlockId>block-1775578394068-esgrec52a</odeBlockId>
+      <blockName>Vinculación con los proyectos y programas del centro</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79ul-pam2lxkyb</odePageId>
+          <odeBlockId>block-1775578394068-esgrec52a</odeBlockId>
+          <odeIdeviceId>idevice-1775578394067-gd9pssznq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>PLEI – Programa de Liderazgo Educativo e Innovación, enfocado en fortalecer competencias docentes y proyectos innovadores en el centro.</p>
+<p>Esta Situación de Aprendizaje se vincula con el PLEI mediante el fomento de la lectura comprensiva y crítica de textos científicos relacionados con el ADN, la biotecnología y sus aplicaciones. El alumnado desarrolla habilidades de interpretación, análisis y comunicación científica a través de la elaboración de productos como la infografía y el podcast, favoreciendo además metodologías innovadoras como el aprendizaje basado en proyectos.</p>
+<p><br />PAD – Plan Anual de Desarrollo, que organiza y prioriza las acciones y metas del centro durante el año escolar.<br />Plan Digital – Estrategia integral para la integración de tecnologías digitales en la enseñanza y gestión educativa del centro.</p>
+<p>La SdA contribuye a los objetivos del PAD especialmente en lo relativo a la atención a la diversidad y la mejora de los procesos de enseñanza-aprendizaje. Se incorporan diferentes tipos de actividades, agrupamientos y recursos que permiten adaptarse a los distintos ritmos y estilos de aprendizaje del alumnado, en coherencia con los principios del Diseño Universal para el Aprendizaje (DUA).</p>
+<p>Plan Digital de Centro<br />Esta propuesta se alinea con el Plan Digital al integrar de forma efectiva herramientas tecnológicas en el proceso educativo. El alumnado utiliza aplicaciones como Canva, Genially o Audacity para la creación de productos digitales (infografía interactiva y podcast), desarrollando su competencia digital de manera práctica y significativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578394067-gd9pssznq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>PLEI – Programa de Liderazgo Educativo e Innovación, enfocado en fortalecer competencias docentes y proyectos innovadores en el centro.</p>\n<p>Esta Situación de Aprendizaje se vincula con el PLEI mediante el fomento de la lectura comprensiva y crítica de textos científicos relacionados con el ADN, la biotecnología y sus aplicaciones. El alumnado desarrolla habilidades de interpretación, análisis y comunicación científica a través de la elaboración de productos como la infografía y el podcast, favoreciendo además metodologías innovadoras como el aprendizaje basado en proyectos.</p>\n<p><br />PAD – Plan Anual de Desarrollo, que organiza y prioriza las acciones y metas del centro durante el año escolar.<br />Plan Digital – Estrategia integral para la integración de tecnologías digitales en la enseñanza y gestión educativa del centro.</p>\n<p>La SdA contribuye a los objetivos del PAD especialmente en lo relativo a la atención a la diversidad y la mejora de los procesos de enseñanza-aprendizaje. Se incorporan diferentes tipos de actividades, agrupamientos y recursos que permiten adaptarse a los distintos ritmos y estilos de aprendizaje del alumnado, en coherencia con los principios del Diseño Universal para el Aprendizaje (DUA).</p>\n<p>Plan Digital de Centro<br />Esta propuesta se alinea con el Plan Digital al integrar de forma efectiva herramientas tecnológicas en el proceso educativo. El alumnado utiliza aplicaciones como Canva, Genially o Audacity para la creación de productos digitales (infografía interactiva y podcast), desarrollando su competencia digital de manera práctica y significativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi79um-lrcmvi0by</odePageId>
+  <odeParentPageId>page-mnxi79uh-tg63cv0tt</odeParentPageId>
+  <pageName>5. Actividades complementarias y extracurriculares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extracurriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extracurriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi79um-lrcmvi0by</odePageId>
+      <odeBlockId>block-1775578612275-bqn5w42ov</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79um-lrcmvi0by</odePageId>
+          <odeBlockId>block-1775578612275-bqn5w42ov</odeBlockId>
+          <odeIdeviceId>idevice-1775578612273-5kf7qz1kn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CHARLA DE INVESTIGADOR/A <br />Se organizará una charla con un/a profesional del ámbito de la genética o la biotecnología de la Universidad  dentro del programa de divulgación de la Universidad de Oviedo , con el objetivo de acercar al alumnado a la realidad de la investigación científica. Esta actividad permitirá conocer aplicaciones reales del estudio del ADN, como la PCR, la terapia génica o la identificación genética, favoreciendo además la motivación y el interés por las vocaciones científicas.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578612273-5kf7qz1kn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CHARLA DE INVESTIGADOR/A <br />Se organizará una charla con un/a profesional del ámbito de la genética o la biotecnología de la Universidad  dentro del programa de divulgación de la Universidad de Oviedo , con el objetivo de acercar al alumnado a la realidad de la investigación científica. Esta actividad permitirá conocer aplicaciones reales del estudio del ADN, como la PCR, la terapia génica o la identificación genética, favoreciendo además la motivación y el interés por las vocaciones científicas.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79um-lrcmvi0by</odePageId>
+      <odeBlockId>block-1775578637972-yhb3sg6vm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79um-lrcmvi0by</odePageId>
+          <odeBlockId>block-1775578637972-yhb3sg6vm</odeBlockId>
+          <odeIdeviceId>idevice-1775578637971-hyg81zj6v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />VISITA VIRTUAL A LABORATORIO <br />El alumnado realizará una visita virtual a un laboratorio especializado en genética o biología molecular. A través de recursos digitales interactivos, podrá conocer el funcionamiento de técnicas como la PCR o la manipulación del ADN, así como los instrumentos y procedimientos utilizados en la investigación científica.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578637971-hyg81zj6v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />VISITA VIRTUAL A LABORATORIO <br />El alumnado realizará una visita virtual a un laboratorio especializado en genética o biología molecular. A través de recursos digitales interactivos, podrá conocer el funcionamiento de técnicas como la PCR o la manipulación del ADN, así como los instrumentos y procedimientos utilizados en la investigación científica.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79um-lrcmvi0by</odePageId>
+      <odeBlockId>block-1775578650955-9nd5h6q2l</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79um-lrcmvi0by</odePageId>
+          <odeBlockId>block-1775578650955-9nd5h6q2l</odeBlockId>
+          <odeIdeviceId>idevice-1775578650955-icmf9o703</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />ANÁLISIS DE CASOS REALES </p>
+<p>Se trabajarán casos reales relacionados con el uso del ADN, como investigaciones forenses, enfermedades genéticas o dilemas éticos en la manipulación genética. El alumnado deberá analizar la información, debatir diferentes perspectivas y proponer soluciones fundamentadas, desarrollando así el pensamiento crítico y la toma de decisiones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578650955-icmf9o703","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />ANÁLISIS DE CASOS REALES </p>\n<p>Se trabajarán casos reales relacionados con el uso del ADN, como investigaciones forenses, enfermedades genéticas o dilemas éticos en la manipulación genética. El alumnado deberá analizar la información, debatir diferentes perspectivas y proponer soluciones fundamentadas, desarrollando así el pensamiento crítico y la toma de decisiones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi79um-99nvlckdp</odePageId>
+  <odeParentPageId>page-mnxi79uh-tg63cv0tt</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi79um-99nvlckdp</odePageId>
+      <odeBlockId>block-1775578761142-46vivthdq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79um-99nvlckdp</odePageId>
+          <odeBlockId>block-1775578761142-46vivthdq</odeBlockId>
+          <odeIdeviceId>idevice-1775578761140-qrfxfg91k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso está bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578761140-qrfxfg91k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso está bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi79um-99nvlckdp</odePageId>
+      <odeBlockId>block-1775747692757-c78ke0kd7</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi79um-99nvlckdp</odePageId>
+          <odeBlockId>block-1775747692757-c78ke0kd7</odeBlockId>
+          <odeIdeviceId>idevice-1775747692755-tv4eh25wk</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Situación de Aprendizaje el ADN en tus manos</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked">El ADN en tus manos</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
